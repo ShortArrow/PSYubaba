@@ -1,6 +1,6 @@
 # Overview
 
-It is [Yubaba](https://www.powershellgallery.com/profiles/shortarrow)that anyone can install and use.
+It is [Yubaba](https://www.powershellgallery.com/profiles/shortarrow) that anyone can install and use.
 
 # How to use Yubaba
 
